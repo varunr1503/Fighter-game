@@ -23,9 +23,9 @@ A local multiplayer **2D retro-style fighting game** inspired by classics like *
 
 ## 📸 Screenshots
 
-![Screenshot 1](assets/readme_assets/image_1.png)
-![Screenshot 2](assets/readme_assets/image_2.png)
-![Screenshot 3](assets/readme_assets/image_3.png)
+![Screenshot 1](assets/readme_assets/img_1.png)
+![Screenshot 2](assets/readme_assets/img_2.png)
+![Screenshot 3](assets/readme_assets/img_3.png)
 
 ---
 
