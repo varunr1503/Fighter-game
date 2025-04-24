@@ -30,6 +30,7 @@ A local multiplayer **2D retro-style fighting game** inspired by classics like *
 ---
 
 ## 🔥 Gameplay Preview
+PS: The gif might be a little slow while viewing it on your browser
 
 ![Gameplay GIF](assets/readme_assets/fighter_gif.gif)
 
